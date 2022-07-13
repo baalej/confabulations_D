@@ -1,0 +1,6 @@
+Title: File
+fields:
+  alt:
+    type: text
+    required: true
+    help: Image description for alt tags

@@ -1,0 +1,31 @@
+Title: Clock
+
+----
+
+Hours:
+
+- clock_hour.png
+
+----
+
+Minutes:
+
+- clock_min.png
+
+----
+
+Miniature:
+
+- clockclock_12.png
+
+----
+
+Seconds:
+
+- clock_sec.png
+
+----
+
+Sphere:
+
+- circle_clock_12.png

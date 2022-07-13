@@ -1,0 +1,5 @@
+type: pages
+sortBy: date desc
+template: talk
+text: "{{ page.speaker }}: {{ page.title }}"
+info: "{{ page.date.toDate("d/m/Y") }} Season {{ page.season }}"

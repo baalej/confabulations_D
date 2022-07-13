@@ -1,0 +1,57 @@
+title: Talk
+icon: 🎙
+preset: page
+pages: false
+files: false
+num: "{{ page.date.toDate('Ymd') }}"
+fields:
+  speaker:
+    type: text
+    help: Name and surname
+    width: 1/2
+  pronouns:
+    type: select
+    width: 1/2
+    options:
+      he_him-his: he/him/his
+      she_her-her: she/her/her
+      they_them-their: they/them/their
+      ze_hir-hirs: ze/hir/hirs
+      ze_zir-zirs: ze/zir/zirs
+      xe_xem-xyrs: xe/xem/xyrs
+  line-a:
+    type: line
+  date:
+    type: date
+    time: true
+    display: DD/MM/YYYY
+    width: 1/2
+    time:
+      display: HH.mm
+    help: Eastern European Time (EET)
+  season:
+    type: number
+    width: 1/2
+  line-b:
+    type: line
+  description:
+    type: textarea
+    size: small
+    help: Description of the talk
+    width: 1/2
+  bio:
+    type: textarea
+    size: small
+    width: 1/2
+  line:
+    type: line
+  video:
+    type: text
+    before: https://youtube.com?watch=
+    icon: video
+    help: Copy the video ID from youtube here to embed the video.
+    width: 1/2
+  transcription:
+    type: textarea
+    size: large
+    width: 1/2

@@ -1,0 +1,28 @@
+title: Stream
+preset: page
+pages: false
+files: false
+fields:
+  video:
+    type: text
+    before: https://youtube.com/embed/
+    icon: video
+    help: Copy the video embedding ID from youtube here to embed the video.
+    width: 1/2
+  background:
+    type: text
+    before: #
+    maxlength: 6
+    minlength: 6
+    width: 1/2
+  launch:
+    type: toggle
+    width: 1/2
+    help: Click when you are ready to stream. If selected the streaming will be released on the website
+    text:
+      yes: Launch stream!
+      no: Not ready yet
+  chat:
+    type: text
+    width: 1/2
+    help: Insert embedding code for the chat

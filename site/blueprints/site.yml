@@ -1,0 +1,4 @@
+preset: pages
+unlisted: true
+unlisted:
+  image: false

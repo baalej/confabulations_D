@@ -1,0 +1,32 @@
+Title: Information
+
+----
+
+About:
+
+GRAPHIC DESIGN CONFABULATIONS is presented by the <a href="https://eka-gd-ma.ee/" aria-label="Visit the website of the Master in Graphic Design" class="accessible">MA in Graphic Design</a> program at the Estonian Academy of Arts, curated by Rosen Eveleigh, and generously supported by the CIRRUS Nordic-Baltic Network of Art and Design Education, and Nordplus.
+
+A series of speakers taking an oblique look onto graphic design and its outlines in order to re-think, destabilize or decenter its normative structures and practices. By prioritising that which has taken place in the margins, ephemerally, despite oppression and in dissent, we will seek to widen the circumference of design practice. To see where else design has and can happen; how social and political movements have manifested in visual cultures; and ultimately to develop a sense of self-reflexivity toward our own privileges and positions.
+
+----
+
+Access: All talks are free and open to the public, automatically streaming online at the <a href="#top" aria-label="Go to the top of the page" class="accessible">top of this page</a>. You might need to refresh your browser in order to see the livestream. The talks start at 19:00 EET and last around 90 minutes, including questions from the public using a chat function, which can be anonymous or using a username. The lectures are automatically captioned using zoom. Recordings are currently unavailable for the lectures, as we hope to have them professionally captioned before archiving and making them public. We endeavour to release the information about each talk around a week before it happens.
+
+----
+
+Colophon:
+
+<a href="https://roseneveleigh.com" aria-label="Visit Rosen Eveleigh's website" class="accessible">Rosen Eveleigh</a> is a designer, writer and researcher working independently or with artists, archives, editors, cultural institutions and publishers to produce graphic identities, typefaces, websites, texts, talks, books and other works. They are interested in the historic and methodological relationship between graphic design and queer culture.
+
+Season 3 visuals by <a href="https://www.instagram.com/diandra_rebase/" aria-label="Visit Diandra's website" class="accessible">Diandra Rebase</a>.
+Season 2 visuals by <a href="https://it5pa.github.io/palala/" aria-label="Visit Paula's website" class="accessible">Paula Buškevica</a> and <a href="http://alejandroba.com/" aria-label="Visit Alejandro's website" class="accessible">Alejandro Bellón Ample</a>.
+Season 1 visuals by <a href="https://it5pa.github.io/palala/" aria-label="Visit Paula's website" class="accessible">Paula Buškevica</a> and <a href="https://bjoerngiesecke.com/" aria-label="Visit Björn's website" class="accessible">Björn Giesecke</a>.
+Confabulations website handmade by <a href="https://bjoerngiesecke.com/" aria-label="Visit Björn's website" class="accessible">Björn Giesecke</a>, <a href="https://it5pa.github.io/palala/" aria-label="Visit Paula's website" class="accessible">Paula Buškevica</a> and <a href="http://alejandroba.com/" aria-label="Visit Alejandro's website" class="accessible">Alejandro Bellón Ample</a>.
+
+----
+
+Logos:
+
+- eka.svg
+- nordplus.svg
+- cirrus.svg

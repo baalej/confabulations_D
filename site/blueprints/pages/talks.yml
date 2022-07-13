@@ -1,0 +1,11 @@
+title: Talks
+preset: pages
+drafts:
+  extends: sections/talks
+  headline: Unpublished talks
+unlisted:
+  extends: sections/talks
+  headline: Unlisted talks
+listed:
+  extends: sections/talks
+  headline: Listed talks

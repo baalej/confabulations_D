@@ -1,0 +1,23 @@
+title: Information
+icon: 🎙
+columns:
+  left:
+    width: 1/2
+    sections:
+    fields:
+      about:
+        type: textarea
+        size: small
+      access:
+        type: textarea
+        size: small
+  right:
+    width: 1/2
+    sections:  
+    fields:
+      colophon:
+        type: textarea
+        size: small
+      logos:
+        type: files
+        layout: list

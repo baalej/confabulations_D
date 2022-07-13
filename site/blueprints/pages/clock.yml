@@ -1,0 +1,19 @@
+title: Clock
+icon: 🕰
+fields:
+  hours:
+    extends: sections/clock
+    label: Hours clock hand
+    help: aspect ratio 1:1 (square)
+  minutes:
+    extends: sections/clock
+    label: Minutes clock hand
+    help: aspect ratio 1:1 (square)
+  seconds:
+    extends: sections/clock
+    label: Seconds clock hand
+    help: aspect ratio 1:1 (square)
+  sphere:
+    extends: sections/clock
+    label: Clock sphere
+    help: aspect ratio 1:1 (square)

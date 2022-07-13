@@ -1,0 +1,11 @@
+title: Subscribe
+preset: page
+pages: false
+files: false
+fields:
+  form:
+    type: text
+    help: Paste the form action URL
+  message:
+    type: text
+    help: Message displayed above the form
